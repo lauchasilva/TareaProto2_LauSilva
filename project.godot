@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="GodotProto_Tarea_2"
-run/main_scene="uid://dchyt86jkvmgq"
+run/main_scene="uid://brmqcbrayqh6w"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
